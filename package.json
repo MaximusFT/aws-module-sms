@@ -1,0 +1,24 @@
+{
+  "name": "aws-module-sms",
+  "description": "AWS SNS module for send SMS",
+  "version": "1.0.0",
+  "author": "MaximusFT",
+  "license": "MIT",
+  "main": "./index.js",
+  "keywords": [
+    "aws",
+    "sns",
+    "sms"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MaximusFT/aws-module-sms"
+  },
+  "engines": {
+    "node": ">=10.15.0",
+    "npm": ">=6.9.0"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.534.0"
+  }
+}
